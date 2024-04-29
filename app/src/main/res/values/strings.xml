@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Introduction</string>
+    <string name="second_fragment_label">RockPaperScissors</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="name">Name: Koay Wei Teng</string>
+    <string name="matric_no">Matric No: U2102760</string>
+</resources>
